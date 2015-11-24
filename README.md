@@ -1,5 +1,5 @@
-# Algorithms
-This repository includes contains resources for Optimization Algorithms.
+# Algorithms, etc.
+This repository includes contains resources for Optimization Algorithms and other Python code.
 
 It is intended for research and educational use.
 
